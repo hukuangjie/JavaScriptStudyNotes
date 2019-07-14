@@ -64,6 +64,9 @@ DOM初体验
 			link.onclick = function(){
 
 				//....
+				//获取 要改变的dom元素对象
+				//获取 要改变的动作
+				//替换 
 								
 				//取消a的默认行为
 				return false;
